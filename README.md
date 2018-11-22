@@ -5,7 +5,7 @@ Printable template for the [Apple Extended Keyboard](https://deskthority.net/wik
 
 This file might need some work on your part, so please read the notes below.
 
-![demo cut out on keyboard](demo.jpg? "Demo cut out on keyboard of commit b5de5af")
+![demo cut out on keyboard](images/demo.jpg? "Demo cut out on keyboard of commit b5de5af")
 
 History
 -------
