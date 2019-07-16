@@ -27,6 +27,21 @@ Contributions:
 * If you have additions which might benefit others, please contact me via Twitter.
 * If you want to show off your template, please let me see it.
 
+History
+-------
+
+Photo's of these templates seem rare, so you can find some in the [images](images/) folder. Here is an index:
+
+[http://kbd.rzw.jp/column/apple_extended_keyboard_ii_m3501/](https://web.archive.org/web/20160505013811/http://kbd.rzw.jp/column/apple_extended_keyboard_ii_m3501/) (archive.org version)
+
+![Overlay and keyboard](images/aa_m3501_mexico_white_01-300x199.jpg)
+![Overlay on blue background](images/aa_m3501_UAS_cream_06-300x225.jpg)
+
+And from my personal collection (not for an AEK keyboard, but an overlay nonetheless) my WordPerfect 6 overlays ([both DOS and Windows; PDF](images/WordPerfect6_DOS_and_Windows_Overlay.pdf)):
+
+<a href="images/WordPerfect6_on_IBM_Keyboard.jpg"><img src="images/WordPerfect6_on_IBM_Keyboard.jpg" style="width:calc(969px/2);height:calc(485px/2)" alt="WordPerfect for Windows overlay"></a>
+
+
 Badges
 ------
 
