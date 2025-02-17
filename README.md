@@ -7,6 +7,7 @@ This file might need some work on your part, so please read the notes below.
 
 <a href="images/demo.jpg"><img src="images/demo.jpg" style="width:calc(966px/2);height:calc(542px/2)" alt="demo cut out on keyboard" title="Demo cut out on keyboard of commit b5de5af"></a>
 
+
 Notes
 -----
 
@@ -24,8 +25,9 @@ Usage:
 
 Contributions:
 
-* If you have additions which might benefit others, please contact me via Twitter.
+* If you have additions which might benefit others, please contact me via <a href="https://mastodon.nl/@doekman">Mastodon</a>.
 * If you want to show off your template, please let me see it.
+
 
 History
 -------
@@ -40,6 +42,8 @@ Photo's of these templates seem rare, so you can find some in the [images](image
 And from my personal collection (not for an AEK keyboard, but an overlay nonetheless) my WordPerfect 6 overlays ([both DOS and Windows; PDF](images/WordPerfect6_DOS_and_Windows_Overlay.pdf)):
 
 <a href="images/WordPerfect6_on_IBM_Keyboard.jpg"><img src="images/WordPerfect6_on_IBM_Keyboard.jpg" style="width:calc(969px/2);height:calc(485px/2)" alt="WordPerfect for Windows overlay"></a>
+
+See also page 11 of the <a href="https://ia904504.us.archive.org/3/items/apple-extended-keyboard-ii-owners-guide-Z030-1700-A/Apple%20Extended%20Keyboard%20II%20Owners%20Guide_text.pdf">Apples Extended Keyboard II - Owner's Guide</a> (kudos to <a href="https://infosec.exchange/@thomasbosboom">Thomas Bosboom</a> for bringing it to my attention).
 
 
 Badges
