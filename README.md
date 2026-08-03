@@ -8,6 +8,12 @@ This file might need some work on your part, so please read the notes below.
 <a href="images/demo.jpg"><img src="images/demo.jpg" style="width:calc(966px/2);height:calc(542px/2)" alt="demo cut out on keyboard" title="Demo cut out on keyboard of commit b5de5af"></a>
 
 
+See Also
+--------
+
+* [AEK Tile Studio](https://thomasdbosboom.github.io/aek-tile-studio/): [Thomas Bosboom](https://infosec.exchange/@thomasbosboom) had the idea of making these templates with a 3D printer using swappable tiles for icons, and put it on steroids!
+
+
 Notes
 -----
 
